@@ -47,7 +47,7 @@ public class SimpleBot {
         System.out.println("Let's test your programming knowledge.");
         // write your code here
         System.out.println("What is OOP?");
-        System.out.println("1. Only Odd Points");
+        System.out.println("1. Only Odd Pts");
         System.out.println("2. Only Obscure Programs");
         System.out.println("3. Object Organization Paradigm");
         System.out.println("4. Object-oriented Programming");
